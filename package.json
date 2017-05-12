@@ -1,0 +1,19 @@
+{
+  "name": "geometry",
+  "version": "1.0.0",
+  "description": "Draw geometric shapes",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "draw",
+    "geometry"
+  ],
+  "author": "Rob Brander",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
